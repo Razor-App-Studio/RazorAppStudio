@@ -4,22 +4,12 @@ Welcome to the official page for **Razor App Studio**! Here, you'll find essenti
 
 ---
 
-## 📄 Files Hosted in This Repository
-
-### **1. Privacy Policy**
+### **Privacy Policy**
 
 The privacy policy governs how we handle users' data, permissions, and other important privacy considerations. It's crucial for users to be informed about the data practices related to the applications created by Razor App Studio.
 
 - **File Name:** `privacy-policy.html`
-- **Access the Privacy Policy:** [Privacy Policy](https://rozi-academy.github.io/RazorAppStudio/privacy_policies)
-
----
-
-### **2. app-ads.txt**
-
-The **app-ads.txt** file is used for managing ads and ensuring authorized ad networks are allowed to show ads in our applications. This helps prevent unauthorized parties from taking advantage of app advertisements.
-
-- **File Name:** `app-ads.txt`
+- **Access the Privacy Policy:** [Privacy Policy](https://razor-app-studio.github.io/RazorAppStudio/privacy_policies)
 
 ---
 
